@@ -1,2 +1,3 @@
 # SchwitzerWars
-SchwitzerWars Plugin for RushyMC
+
+ - Das plugin ist für RewinsidePE
